@@ -1,0 +1,2 @@
+C:\Users\Andy\Documents\Projects\SwipeRefresh\SwipeRefresh\bin\Debug\SwipeRefresh.dll
+C:\Users\Andy\Documents\Projects\SwipeRefresh\packages\Xamarin.Android.Support.v4.21.0.3.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll

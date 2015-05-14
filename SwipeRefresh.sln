@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwipeRefresh", "SwipeRefresh\SwipeRefresh.csproj", "{1D4D5528-F16C-4023-A8E9-C37343603AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwipeRefresh.UITests", "SwipeRefresh.UITests\SwipeRefresh.UITests.csproj", "{B22E347C-177E-4F92-A45C-19919EF42F56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D4D5528-F16C-4023-A8E9-C37343603AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4D5528-F16C-4023-A8E9-C37343603AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4D5528-F16C-4023-A8E9-C37343603AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4D5528-F16C-4023-A8E9-C37343603AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22E347C-177E-4F92-A45C-19919EF42F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22E347C-177E-4F92-A45C-19919EF42F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22E347C-177E-4F92-A45C-19919EF42F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22E347C-177E-4F92-A45C-19919EF42F56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
